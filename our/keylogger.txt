@@ -1,0 +1,117 @@
+hi there
+
+first use thi¢[CTRL]rightg heredfgdfgd[CAPS_LOCK]DFSDFDSAFD[CAPS_LOCK]you
+c [SHIFT]»» vs c all differenceshakimi wife
+ boobs
+rennee gracie
+%%% %c [SHIFT]»» amalware
+'filenencrypncryptoion¾cpp
+ [SHIFT] 3include  [SHIFT]¼iostream [SHIFT]¾
+ [SHIFT]3include  [SHIFT]¼f[TAB]
+ [SHIFT]3include  [SHIFT]¼dire¢[CTRL] [SHIFT] 
+
+ [SHIFT]3include  [SHIFT]¼sys¢[CTRL] stat
+
+
+void encrypt [SHIFT]file [SHIFT]9sstd[SHIFT] ººstring file [SHIFT]path [SHIFT]0 
+ std [SHIFT]ººfstream file¼ temp [SHIFT]fileº&¢[CTRL]
+º  [SHIFT]file is the fille will be encrypted
+ temp [SHIFT]file is s a temporatry file which save encrypted data of file(
+std [SHIFT]ººstring temp [SHIFT]file [SHIFT]path » temp¾txtº
+
+ [SHIFT] open file streams 
+ op[SHIFT] open file to read¼ temp file to write%%%%%%% [SHIFT]  
+file¾olppen [SHIFT]9filp
+¼ std [SHIFT]ººio [SHIFT]ººin [SHIFT]0 º
+tempfile
+¾open[SHIFT] 9tempfilepath
+¼ std [SHIFT]ººios[SHIFT] ººout [SHIFT]0º s
+
+  [SHIFT]read byte oby byte through fileº
+char byteº
+while  [SHIFT]9file  [SHIFT]¾¾ std [SHIFT]ººnoskipw
+ [SHIFT] ¾¾ byte [SHIFT]0  [SHIFT]
+   [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT] [SHIFT][SHIFT]  [SHIFT] [SHIFT] [SHIFT][SHIFT]  [SHIFT] [SHIFT][SHIFT]  [SHIFT][SHIFT]  [SHIFT] [SHIFT]encrypt this byte by add 1 to itº
+byte  [SHIFT]»» 1º
+  [SHIFT]save this byte into temp fileº
+temp [SHIFT]file [SHIFT] ¼¼ byteº(
+
+ [SHIFT] close file streamº
+file¾close [SHIFT]90º
+temp [SHIFT]file¾close [SHIFT]90º
+
+ [SHIFT] open file streamsº
+ [SHIFT]  [SHIFT]but this time we will open file to write and temp to read
+file¾open [SHIFT]9filepath
+¼ std [SHIFT]ºº iosios¾ [SHIFT]ººout [SHIFT]0º
+tempfile
+¾open [SHIFT]9tempfileoppath
+¼ std [SHIFT][TAB]
+ 
+  [SHIFT]read through temp file byte by byte
+while  [SHIFT]9tempfile
+  [SHIFT]¾¾ std [SHIFT]ººnoskipws  [SHIFT]¾¾ byte [SHIFT]0 
+   [SHIFT]save this byte into file
+file  [SHIFT]¼¼ byteº(
+
+  [SHIFT]close[TAB]s
+file¾lclose [SHIFT]90º
+tempfile
+¾lcclose[SHIFT] 90º
+
+  [SHIFT]delete temp fileº
+remove [SHIFT]9tempfile(
+ [SHIFT]0º%%¾cs
+[SHIFT]  [SHIFT] [SHIFT]90    
+
+svoid encrypt [SHIFT]directory [SHIFT]  [SHIFT]9 [SHIFT]std [SHIFT]ººstring directory [SHIFT]path [SHIFT]0 
+  [SHIFT]this function will read through all directories and files in a directory 
+  [SHIFT]if it find a file¼ it will encrypt that file
+  [SHIFT]if it finds a directory¼ it will read through that rdirectory    [SHIFT][ALT]¤&
+  [SHIFT]dir8 directoryº
+struct dirent [SHIFT]8 entryº
+struct stat statusº
+sstd [SHIFT]ººstring pathº
+
+ [SHIFT] open the directoryº
+if  [SHIFT]99directory » opendir[SHIFT] 9directorypat¢[CTRL] 
+¾scs
+[SHIFT] 90%%   [SHIFT]1» null¢[CTRL][CAPS_LOCK]NULL[SHIFT] 0 
+  [SHIFT]OPEN ¢[CTRL][CAPS_LOCK][SHIFT] open directory successfully 
+  [SHIFT]get  [CTRL]¢ [SHIFT]read through directory
+while  [SHIFT]99entry » readdir [SHIFT]9¢[CTRL]readdi
+¢[CTRL] 
+ opendir¢[CTRL]c¢[CTRL]v library ubin  [SHIFT] [SHIFT]c»»
+¢[CTRL]c¢[CTRL]v
+dirent¢[CTRL]    [CTRL]¢  [SHIFT]9dire
+[SHIFT] 0 %¢[CTRL]z%''%  [SHIFT]1» [CAPS_LOCK][TAB][SHIFT] %
+K[CAPS_LOCK]   [SHIFT]check if this entry  [SHIFT]9file or directory [SHIFT]0 is current directly   [SHIFT]9¾ [SHIFT]0 or parentº
+  directory  [SHIFT]9¾¾  [TAB][TAB][TAB]if [SHIFT] 9strcpmp
+ [SHIFT]9entry»½ [SHIFT]¾ d [SHIFT]½name¼  [SHIFT]¾ [SHIFT] [SHIFT]0  [SHIFT]1» [SHIFT] 0 [SHIFT]0%½0   [SHIFT]77[TAB]   [SHIFT]
+  [SHIFT]get entry full path
+path » directory [SHIFT]path
+  [SHIFT]»  [SHIFT] [SHIFT] [SHIFT] » entry½ [SHIFT]¾d [SHIFT]½nameº.nameº  ¢[CTRL]
+  [SHIFT]check if this entry is a directory or file
+stat [SHIFT]9path¼  [SHIFT]7status [SHIFT]0º
+id [SHIFT] 9[SHIFT] s [SHIFT]½isdi
+ [SHIFT]9status
+¾st [SHIFT]½mode [SHIFT]00 [SHIFT] 
+( else  [SHIFT]
+ ¾str
+ [SHIFT]9f [TAB]  [SHIFT]this is a directory(((&[TAB] t [SHIFT]this is a file&&[CTRL]¢
+ [SHIFT]  [SHIFT]we will read through it
+encrypt
+ [SHIFT]9path [SHIFT]0º  
+  [SHIFT]we will encrypt itº
+encrypt
+¢[CTRL]encrypfile
+ [SHIFT]9pathº'º
+
+int main [SHIFT]90 
+
+  [SHIFT] [SHIFT]encrypt directory
+encryptdirec
+[SHIFT] 9well  will encrypt  [SHIFT]d [SHIFT]our directoryº%% º
+
+return 0º  &filencrypt¢[CTRL]%%%%¢[CTRL]filencryption
+   [SHIFT]ourour

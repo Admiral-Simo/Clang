@@ -1,0 +1,4 @@
+ [SHIFT]¢[CTRL]v [ALT]¤¤[ALT]¤[ALT]¤[ALT]¤[ALT]¤[ALT][ALT]¤¤[ALT]¤[ALT]¤[ALT][ALT]¤¤[ALT]¤[ALT]¤[ALT]¤[ALT][ALT]¤¤[ALT]¤[ALT]¤[ALT]¤[ALT][ALT]¤¤[ALT]¤[ALT]¤[ALT]¤[ALT][ALT]¤¤[ALT] &
+[ALT]¤ [SHIFT](
+.de¢[CTRL]c¢[CTRL]c¢[CTRL]vde¢[CTRL]c¤[ALT] [SHIFT](¢[CTRL]v
+½¢[CTRL]c¢[CTRL]v[CTRL]¢&
